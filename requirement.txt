@@ -1,0 +1,6 @@
+langchain
+pypdf
+pdfplumber 
+sentence-transformers
+faiss-cpu 
+openai
