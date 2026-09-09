@@ -31,7 +31,7 @@
 
 Unlike traditional LLM-based QA systems, this project ensures that answers come strictly from the provided document, minimizing hallucinations and keeping all your data completely private. No information is sent to external APIs, everything runs locally on your machine using **Ollama (Llama 3.2)** with an interactive **Streamlit** interface.
 
-This project demonstrates a **privacy-first, production-style RAG pipeline** that's perfect for enterprise and confidential documents.
+This project demonstrates a **privacy-first RAG pipeline** that's perfect for enterprise and confidential documents.
 
 ---
 
